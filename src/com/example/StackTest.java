@@ -1,3 +1,15 @@
+/**
+ * Stacj\k Test Sample Programe
+ * This programe implement 4 APIs :
+ * 	isEmpty()
+ * peek()
+ * pop()
+ * push
+ * 
+ * @author USER (nogoso1@naver.com) 
+ * @version 2.0, 26 sep 2016
+ * */
+
 package com.example;
 import com.example.Stack;
 
