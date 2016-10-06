@@ -6,8 +6,8 @@
  * pop()
  * push
  * 
- * @author USER (nogoso1@naver.com) 
- * @version 2.0, 26 sep 2016
+ * @author ChoiMinHyeok (nogoso1@naver.com) 
+ * @version 2.0, 06-10 2016
  * */
 
 package com.example;
